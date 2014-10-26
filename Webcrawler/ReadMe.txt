@@ -12,4 +12,5 @@ Your crawler should take two arguments: the seed page and an optional "keyphrase
 
 
 Hand in your code and instructions on how to (compile and) run it. In addition, hand in two lists of URLs:
-1. the pages crawled when the crawler is run with no keyphrase, in other words all Wikipedia pages meeting the requirements above to a depth of 3 from the starting seed; 2. the pages crawled when the keyphrase is "information retrieval".
+1. the pages crawled when the crawler is run with no keyphrase, in other words all Wikipedia pages meeting the requirements above to a depth of 3 from the starting seed;
+2. the pages crawled when the keyphrase is "information retrieval".
